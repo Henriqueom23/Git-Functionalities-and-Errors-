@@ -1,0 +1,17 @@
+Copy-Pasting something from outside, into the Git-Bash can cause some problems.
+
+Problem (Windows): "Ctrl-C -> Ctrl-V" doens't work.
+
+Solution 1:
+
+One possible solution is the key Insert (Ins).
+When copy-pasting something from outside, in a lap-top keyboard, make sure the the "Num Lock" button is off.
+Then press "Ctrl" + "Ins" to copy, and "Shift" + "Ins" to paste.
+
+This can bring some other problems because it might insert invisible characters that will disturb the command lines.
+
+Solution 2:
+
+Do everything with the mouse. 
+Select the text and, if needed, right click on it and press copy.
+Go to the Git Bash, right click on it and press paste.
