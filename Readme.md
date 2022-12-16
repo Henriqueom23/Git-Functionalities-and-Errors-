@@ -1,2 +1,1 @@
-Texto read me
-eu gosto e do verao
+This repositori has some of the basic functionalities of Git and also some bugs that might appear on the Git Bash
